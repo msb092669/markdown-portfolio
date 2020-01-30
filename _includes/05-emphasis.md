@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### New Balls Drilled in 2020
+* **Hammer**
+  * *Purple Hammer*
+* **Storm**
+  * *Tropical Breeze* :heart:
+  * *Tropical Storm*
+  * *Tropical Surge*
+* **900 Global**
+  * *Equilibrium*
+  * *Volatility*
